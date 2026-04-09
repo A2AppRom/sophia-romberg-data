@@ -1,0 +1,2 @@
+version,device name,recording epoch time,recording time,recording timezone,platform,appVersion,device id,sensors,sampleRateMs,standardisation,platform version,fusion
+3,iPhone17-5,1773204173391,2026-03-11_04-42-53,America/New_York,ios,1.54,556bb23d-2739-45ce-acd8-350e8ddc80da,Accelerometer|Annotation|AccelerometerUncalibrated,10||10,false,26.2.1,system

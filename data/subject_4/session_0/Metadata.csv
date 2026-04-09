@@ -1,0 +1,2 @@
+version,device name,recording epoch time,recording time,recording timezone,platform,appVersion,device id,sensors,sampleRateMs,standardisation,platform version,fusion
+3,iPhone 16 Pro Max,1773257856489,2026-03-11_19-37-36,America/New_York,ios,1.54,34e5b42d-5963-4af0-aabe-4dc1e62047c4,Accelerometer|Annotation|AccelerometerUncalibrated,10||10,false,26.3,system
